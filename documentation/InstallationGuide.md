@@ -8,7 +8,7 @@ You should install rustup and then use it to get hold of the latest Rust compile
 See [here](https://doc.rust-lang.org/book/ch01-01-installation.html) for instructions.
 
 Before installing and running MIRAI you should set the current compiler to be same as the compiler
-listed in the MIRAI [rust-toolchain] (https://github.com/facebookexperimental/MIRAI/blob/master/rust-toolchain).
+listed in the MIRAI [rust-toolchain](https://github.com/facebookexperimental/MIRAI/blob/master/rust-toolchain).
 
 For example:
 ```
